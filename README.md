@@ -1,5 +1,5 @@
 # Vercel URL:  
-https://flipkart-alpha-jet.vercel.app/#/
+https://flipkart-mu-teal.vercel.app/
 
 
 # Getting Started with Create React App
