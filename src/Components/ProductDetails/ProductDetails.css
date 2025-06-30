@@ -1,0 +1,11 @@
+.buybtn {
+  background-color: darkorange;
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+  color: white;
+  font-weight: 700;
+}
+.buy {
+  background-color: darkorange;
+}

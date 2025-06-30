@@ -1,0 +1,23 @@
+footer {
+  background-color: rgb(241, 242, 244);
+}
+.footer-sec {
+  background-color: rgb(23, 35, 55);
+  margin-top: 10px;
+  color: white;
+}
+ul li {
+  list-style-type: none;
+  text-transform: capitalize;
+  color: #ffffff70;
+  line-height: 25px;
+  font-size: small;
+}
+
+.final {
+  border-top: 1px solid #454d5e;
+}
+.final h2,
+h3 {
+  color: #ffffff70;
+}
