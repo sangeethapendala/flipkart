@@ -1,4 +1,5 @@
-Flipkart project using React involves building an e-commerce frontend that mimics core features of Flipkart (or any online shopping platform). The project is usually done for learning purposes and includes pages like product listings, product details, cart, checkout, and user authentication.
+Flipkart project using React involves building an e-commerce frontend that mimics core features of Flipkart (or any online shopping platform). 
+The project is usually done for learning purposes and includes pages like product listings, product details, cart, checkout, and user authentication.
 
 . Project Objective
 To create a responsive, interactive, and functional e-commerce application using React that includes core features like:
@@ -21,15 +22,6 @@ User login/logout
 
 # Vercel URL:  
 https://flipkart-mu-teal.vercel.app/
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
