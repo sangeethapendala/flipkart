@@ -1,3 +1,6 @@
+# Vercel URL:  
+https://flipkart-mu-teal.vercel.app/
+
 Flipkart project using React involves building an e-commerce frontend that mimics core features of Flipkart (or any online shopping platform). 
 The project is usually done for learning purposes and includes pages like product listings, product details, cart, checkout, and user authentication.
 
@@ -19,9 +22,6 @@ Search/filter
 Checkout process (dummy or real)
 
 User login/logout
-
-# Vercel URL:  
-https://flipkart-mu-teal.vercel.app/
 
 ### `npm start`
 
